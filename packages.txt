@@ -1,0 +1,5 @@
+zen-browser
+steam
+obsidian
+lutris
+discord
