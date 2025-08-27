@@ -24,10 +24,12 @@ yay -Sy --noconfirm stow
 #dotfiles installation
 cd
 git clone https://github.com/barbeless/dotfiles.git
+cd dotfiles/
 stow --target ~/.config .
 
 
-
+cd
+cd Platter/
 #import packages list
 PACKAGE_FILE="packages.txt"
 
