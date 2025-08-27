@@ -3,3 +3,4 @@ steam
 obsidian
 lutris
 discord
+fastfetch
