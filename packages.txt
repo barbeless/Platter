@@ -1,6 +1,9 @@
 zen-browser
+ghostty-git
+neovim
 steam
 obsidian
 lutris
 discord
 fastfetch
+bat
